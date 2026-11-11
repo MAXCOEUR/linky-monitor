@@ -1,0 +1,6 @@
+{
+  "name": "linky-monitor",
+  "main": "apps/api/src/index.ts",
+  "compatibility_date": "2026-11-11",
+  "workers_dev": true
+}
